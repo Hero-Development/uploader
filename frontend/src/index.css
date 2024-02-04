@@ -1,0 +1,12 @@
+
+#drop-zone {
+  border: 2px dashed black;
+  border-radius: 8px;
+  cursor: not-allowed;
+  min-height: 10em;
+  min-width: 10em;
+}
+
+.drag-over {
+  cursor: crosshair;
+}
